@@ -33,7 +33,7 @@ sudo service reload
 
 
 ##### 4. Delete all the content from tmp folder
-```
+```sh
 sudo rm -rf /tmp/* 
 ```
 
